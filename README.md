@@ -1,6 +1,6 @@
-# solana-dex-mev-indexer
+# solana-indexer
 
-Low-latency Solana DEX & MEV indexer using Geyser/Yellowstone → Kafka → ClickHouse with real-time APIs.
+Solana indexer using Geyser/Yellowstone → Kafka → ClickHouse with real-time APIs.
 
 ## High-level
 
